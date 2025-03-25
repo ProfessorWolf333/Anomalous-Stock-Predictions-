@@ -42,6 +42,5 @@ universaldisclosure023@proton.me
 
 We don’t ghost. We just disappear when the job is done.
 
-Let me know if you want this injected into a repo starter pack. I can drop everything into a zipped WolfPredictionSystem GitHub bundle with auto-styled sections, visualizer support, and plug-and-play charting.
 
 

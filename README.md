@@ -1,5 +1,5 @@
 
-This This predictive system has been independently verified by:
+This predictive system has been independently verified by:
 
 Professional analysts
 

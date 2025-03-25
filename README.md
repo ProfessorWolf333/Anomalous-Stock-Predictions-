@@ -37,7 +37,7 @@ Contact W-TRC
 Anonymous Blockchain. One and Done.
 You get the prediction, the timestamp, the system, and the edge.
 
-PIO Officer (Public Interface Operator):
+PIO Officer:
 universaldisclosure023@proton.me
 
 We don’t ghost. We just disappear when the job is done.

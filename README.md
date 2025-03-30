@@ -14,9 +14,10 @@ We’re looking into that, but also not too hard, because it works.
 
 This model is fully demonstrable, timestamped by OpenTimestamps.org
 SHA256: 4eda7245f62d516ad241e7bea3d250dc2e695496a772c371ca770144a7e76bfa
-(Dated March 23, 2025 @ 5:40 AM — before market open, so don’t play.)
+(Dated March 25*, 2025 @ 5:40 AM — before market open, so don’t play.)
+*File comtains a small error stating the date as March 23rd. This is incorrect. The time was March 25th @ apx 5:40 AM. This can be verified via the blockchain SHA. 
 
-:Why This Matters
+Why This Matters
 
 Complete obliteration of your market enemies allows you to:
 
